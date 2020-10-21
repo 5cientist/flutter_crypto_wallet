@@ -8,6 +8,9 @@ class Authentication extends StatefulWidget {
 }
 
 class _AuthenticationState extends State<Authentication> {
+  TextEditingController _emailField = TextEditingController();
+  TextEditingController _passwordField = TextEditingController();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -17,7 +20,39 @@ class _AuthenticationState extends State<Authentication> {
         decoration: BoxDecoration(
           color: Colors.blueAccent,
         ),
-        child: Text("Hello World"),
+        child: Column(
+          children: [
+            TextFormField(
+              controller: _emailField,
+              decoration: InputDecoration(
+                hintText: "something@gmail.com",
+                hintStyle: TextStyle(
+                  color: Colors.white,
+                ),
+                labelText: "Email",
+                labelStyle: TextStyle(
+                  color: Colors.white,
+                ),
+              ),
+            ),
+            TextFormField(
+              controller: _passwordField,
+              obscureText: true,
+              decoration: InputDecoration(
+                hintText: "password",
+                hintStyle: TextStyle(
+                  color: Colors.white,
+                ),
+                labelText: "Password",
+                labelStyle: TextStyle(
+                  color: Colors.white,
+                ),
+              ),
+            ),
+            Container(),
+            Container()
+          ],
+        ),
       ),
     );
   }
