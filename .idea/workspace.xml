@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79791372-11a7-4e62-a801-eb9f53dcd140" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/crypto_wallet_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/android/crypto_wallet_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +46,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1822" height="238" key="GridCell.Tab.0.bottom" timestamp="1603261047715">
+    <state width="1822" height="167" key="GridCell.Tab.0.bottom" timestamp="1603309900223">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1822" height="238" key="GridCell.Tab.0.bottom/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603261047715" />
-    <state width="1822" height="238" key="GridCell.Tab.0.center" timestamp="1603261047715">
+    <state width="1822" height="167" key="GridCell.Tab.0.bottom/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603309900223" />
+    <state width="1822" height="167" key="GridCell.Tab.0.center" timestamp="1603309900223">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1822" height="238" key="GridCell.Tab.0.center/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603261047715" />
-    <state width="1822" height="238" key="GridCell.Tab.0.left" timestamp="1603261047714">
+    <state width="1822" height="167" key="GridCell.Tab.0.center/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603309900223" />
+    <state width="1822" height="167" key="GridCell.Tab.0.left" timestamp="1603309900223">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1822" height="238" key="GridCell.Tab.0.left/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603261047714" />
-    <state width="1822" height="238" key="GridCell.Tab.0.right" timestamp="1603261047715">
+    <state width="1822" height="167" key="GridCell.Tab.0.left/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603309900223" />
+    <state width="1822" height="167" key="GridCell.Tab.0.right" timestamp="1603309900223">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state width="1822" height="238" key="GridCell.Tab.0.right/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603261047715" />
+    <state width="1822" height="167" key="GridCell.Tab.0.right/0.34.1920.1046/0.1080.1920.1080@0.34.1920.1046" timestamp="1603309900223" />
   </component>
 </project>

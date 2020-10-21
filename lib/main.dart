@@ -5,7 +5,6 @@ import 'ui/authentication.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  //should added then only we can //add initialization of flutter application in flutter
   await Firebase.initializeApp();
   runApp(MyApp());
 }
